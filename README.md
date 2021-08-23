@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **darkracer3010/darkracer3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello,
-Just a Beginer who is curious about Computers and Stuff
-Interested in Gaming
-Ask me About Anything here:https://github.com/darkracer3010/darkracer3010/issues
-Steam ID:mnishal3010
+<h1>About Me</h1><br>
+Hello,<br>
+Just a Beginer who is curious about Computers and Stuff<br>
+Loves Gaming<br>
+Ask me About Anything<a href="https://github.com/darkracer3010/darkracer3010/issues"> here</a><br>
+Steam ID:mnishal3010<br>
+<br>
+<h1>Languages</h1>
+<ul>
+  <li>C</li>
+  <li>Python</li>
+  <li>Java</li>
