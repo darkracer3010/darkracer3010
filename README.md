@@ -25,10 +25,11 @@ Steam ID:mnishal3010<br>
   <li>C</li>
   <li>Python</li>
   <li>Java</li>
-<a href="#stats">
+  <h1>Stats</h1>
+  <a href="#stats">
 <img align="center" src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=darkracer3010&show_icons=true&count_private=true&theme=tokyonight" />
 </a><br>
-  <h1>Stats</h1>
+  <br>
   <a href="#stats">
 <img align="center" src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=darkracer3010&layout=compact&langs_count=8&theme=tokyonight" />
 </a>
