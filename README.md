@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1>About Me</h1><br>
 Hello,<br>
-Just a Beginer who is curious about Computers and Stuff<br>
+Just a Beginner who is curious about Computers and Stuff<br>
 Loves Gaming<br>
 Ask me About Anything<a href="https://github.com/darkracer3010/darkracer3010/issues"> here</a><br>
 Steam ID:mnishal3010<br>
