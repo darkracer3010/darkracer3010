@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://blog.lootcrate.com/wp-content/uploads/2018/02/giphy-1-5.gif"></img>
 <h1>About Me</h1><br>
 Hello,<br>
 Just a Beginner who is curious about Computers and Stuff<br>
@@ -33,3 +34,4 @@ Steam ID:mnishal3010<br>
   <a href="#stats">
 <img align="center" src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=darkracer3010&layout=compact&langs_count=8&theme=tokyonight" />
 </a>
+  
