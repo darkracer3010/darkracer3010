@@ -26,7 +26,6 @@ Steam ID:mnishal3010<br>
   <li>C</li>
   <li>Python</li>
   <li>Java</li>
-  <li>Java</li>
   <li>SQL</li>
   </ul>
   <h1>Stats</h1>
