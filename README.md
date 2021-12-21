@@ -23,11 +23,11 @@ Steam ID: mnishal3010<br>
 <br>
 <h1>Most Used Languages</h1><br>
 <a href="#lang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkracer3010&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkracer3010&theme=dracula"/>
   </a>
  <h1>Stats</h1>
   <a href="#stats">
-<img align="center" src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=darkracer3010&show_icons=true&count_private=true&theme=tokyonight" />
+<img align="center" src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=darkracer3010&show_icons=true&count_private=true&theme=dracula" />
 </a><br>
   <br>
 
