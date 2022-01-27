@@ -22,7 +22,7 @@ Ask me About Anything<a href="https://github.com/darkracer3010/darkracer3010/iss
 Steam ID: mnishal3010<br>
 <br>
 <h1>Stats</h1>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkracer3010&show_icons=true&theme=radical)
+![darkracer3010's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkracer3010&show_icons=true&theme=radical)
 <br>
 <h1>Most Used Languages</h1><br>
 <a href="#lang">
