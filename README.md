@@ -21,6 +21,9 @@ Loves Gaming<br>
 Ask me About Anything<a href="https://github.com/darkracer3010/darkracer3010/issues"> here</a><br>
 Steam ID: mnishal3010<br>
 <br>
+<h1>Stats</h1>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkracer3010&show_icons=true&theme=radical)
+<br>
 <h1>Most Used Languages</h1><br>
 <a href="#lang">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkracer3010&theme=dracula"/>
