@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 <img src="https://blog.lootcrate.com/wp-content/uploads/2018/02/giphy-1-5.gif"></img>
 <h1>About Me</h1><br>
 Hello,<br>
-Just a Beginner who is curious about Computers and Stuff<br>
-Loves Gaming<br>
-Ask me About Anything<a href="https://github.com/darkracer3010/darkracer3010/issues"> here</a><br>
-Steam ID: mnishal3010<br>
+🔭 Just a Beginner who is curious about Computers and Stuff<br>
+🎮 Loves Gaming<br>
+🌱 I’m currently learning stuff related to python (libraries and frameworks)<br>
+📫 Ask me About Anything<a href="https://github.com/darkracer3010/darkracer3010/issues"> here</a><br>
 <br>
 <h1>Stats</h1>
 <a href="#stats">
