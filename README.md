@@ -23,7 +23,7 @@ Hello,<br>
 <br>
 <h1>Stats</h1>
 <a href="#stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkracer3010&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /><br />
+  <img align="center" src="" /><br />
 </a>
 <br>
 <h1>Most Used Languages</h1><br>
