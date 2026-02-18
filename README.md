@@ -13,47 +13,49 @@
 
 ## 🧠 What I Work On
 
-- Designing **scalable backend architectures** for production workloads
-- Building **FastAPI-based services** with clean contracts and performance focus
-- Developing **RAG pipelines** (chunking, embeddings, semantic search)
-- Integrating **LLMs** into real-world systems (not demos)
-- Implementing **event-driven architectures** using streaming platforms
-- Shipping **low-latency APIs** used by large user bases
+- Designing **scalable backend architectures** for production workloads  
+- Building **FastAPI-based services** with clean contracts and performance focus  
+- Developing **RAG pipelines** (chunking, embeddings, semantic search)  
+- Integrating **LLMs** into real-world systems (not demos)  
+- Implementing **event-driven architectures** using streaming platforms  
+- Shipping **low-latency APIs** used by large user bases  
 - Bridging **backend engineering × applied AI**
 
 ---
 
 ## ⚙️ Backend & AI Stack
 
-**Languages**
-- Python, JavaScript, SQL
+### Languages
+- Python
+- JavaScript
+- SQL
 
-**Backend**
-- FastAPI
-- REST APIs
-- Event-driven systems
-- API security (JWT, OAuth)
-- Backend performance & reliability
+### Backend
+- FastAPI  
+- REST APIs  
+- Event-driven systems  
+- API security (JWT, OAuth)  
+- Backend performance & reliability  
 
-**AI / GenAI**
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Embeddings & semantic search
-- Prompt engineering
-- Multi-agent & orchestration workflows
+### AI / GenAI
+- Large Language Models (LLMs)  
+- Retrieval-Augmented Generation (RAG)  
+- Embeddings & semantic search  
+- Prompt engineering  
+- Multi-agent & orchestration workflows  
 
-**Data & Streaming**
-- Confluent Kafka
-- MongoDB
-- PostgreSQL
-- MySQL
-- MS SQL Server
+### Data & Streaming
+- Confluent Kafka  
+- MongoDB  
+- PostgreSQL  
+- MySQL  
+- MS SQL Server  
 
-**Cloud & Infra**
-- Azure (including OpenAI services)
-- AWS (fundamentals)
-- Docker
-- CI/CD-oriented deployments
+### Cloud & Infra
+- Azure (including OpenAI services)  
+- AWS (fundamentals)  
+- Docker  
+- CI/CD-oriented deployments  
 
 ---
 
@@ -63,7 +65,7 @@
 - **Event-driven workflows** triggering downstream processes in real time  
 - **Production APIs** deployed under tight SLAs with minimal downtime  
 - **Backend platforms** supporting 100k+ users  
-- **AI agents & orchestration flows** using modern tooling
+- **AI agents & orchestration flows** using modern tooling  
 
 ---
 
@@ -96,18 +98,3 @@ Clean, maintainable backend codebases
 📫 Reach me via GitHub Issues
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=darkracer3010&label=PROFILE+SCANS&color=00ffd5&style=flat" /> </p>
-
----
-
-### 🔥 Optional Cyberpunk Upgrades (Next Level)
-If you want, I can:
-- Add **animated section dividers (neon lines)**
-- Add a **“System Status” section** (online / building / shipping)
-- Add **Contribution Snake (neon green)**
-- Add a **Projects section written like system modules**
-- Convert this into a **fully noir / hacker manifesto style**
-
-Just say:
-> **“Upgrade it further”** or **“Make it darker / more hacker”**
-
-This README already reads like a **real backend engineer**, not a profile filler 🕶️⚡
